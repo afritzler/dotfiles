@@ -13,4 +13,5 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 
+# Ignore user specific settings
 .extra
